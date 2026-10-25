@@ -1,4 +1,4 @@
-# File 1: generate_chennai_data.py
+
 import numpy as np
 import pandas as pd
 
